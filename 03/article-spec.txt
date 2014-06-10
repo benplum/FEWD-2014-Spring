@@ -1,0 +1,38 @@
+Page
+	- Background #666
+
+Frame
+	- background #fff
+	- 975px wide
+
+Content 
+	- 775px wide
+
+Page Title 
+	- Georgia Bold, 42px, 1, #930
+
+Section Title
+	- Georgia Bold, 28px, 1, #333
+
+Sub-Section Title
+	- Georgia Bold Italic, 22px, 1, #333
+
+List Title
+	- Georgia Bold, all caps, 14px, 1, #999
+
+Paragraph
+	- Helvetica, 14px, 1.8, #333
+
+Lists
+	- Helvetica, 14px, 1.8, #333
+
+Links
+	- #930
+
+Quotes
+	- Georgia Italic, 16px, 1.8, #333
+	- Background #f6f6f6
+	- Left border, 10px, #e3e3e3
+
+Dividers
+	- 1px #e5e5e5
